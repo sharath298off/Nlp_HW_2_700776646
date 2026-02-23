@@ -18,19 +18,7 @@ Computes precision, recall, macro-averaged, and micro-averaged metrics from a co
 
 ---
 
-## How to Run Programs
 
-1. Install Python
-2. Open terminal or command prompt
-3. Navigate to this repository folder
-4. Run any file:
-
-python filename.py
-
-Example:
-python Q1_bigram_language_model.py
-
----
 
 ## Part I – Written Answers
 
